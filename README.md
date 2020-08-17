@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ### My Github Stats:
 
 <img align="left" alt="Hasan masum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrab-haque)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]:https://www.linkedin.com/in/hasan-masum-281157186/
 [instagram]: https://www.instagram.com/hnmasum/
