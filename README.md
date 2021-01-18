@@ -1,74 +1,108 @@
 [![HitCount](http://hits.dwyl.com/Hmasum18/Hmasum18.svg)](http://hits.dwyl.com/Hmasum18/Hmasum18)<img src="https://komarev.com/ghpvc/?username=Hmasum18">
 
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on an educational app under department of CSE,BUET
+- 🔭 I’m currently an undergraduate student of CSE, BUET(Bangladesh University of Engineering and Technology)
 
-- 🌱 I’m currently learning  web dev
+- 🌱 I’m currently learning  the basics of computer science.
 
-- ⚡ Fun fact: I love to learn new thing
+- ⚡ Fun fact: I love to learn new thing and building some new application.
+
 - 👯 I’m looking to collaborate on opensource and group projects.
+
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
+[![LinkedIn](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
+[![LinkedIn](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
+
+## Languages, Frameworks and Tools
+
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git)
+![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Android](https://img.shields.io/badge/-android-3ddc84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![dango](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
+
+## Github Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18&layout=compact&&theme=gruvbox)
+
+## Hackathons
+
+|Project Name|Team Name|Competition Name|Achievement|
+| :-------: | :---------: | :------------: | :----------- |
+|    [Satellight][satellight]    | [BUET Zenith](hack1) |       NASA Space Apps Challenge 2020       | [Regional Champion, Dhaka Bangladesh][nasaSpaceApps_local] -> Global Nominee -> [Global Finalist][naseSpaceApps_Finalist] |
+| [Memory leak labs][MemoryLeakLab] |                        Memory Leak                        | Hack the verse by IIT, University of Dhaka |                 [4th position among 42 teams][hackTheVerse_4th]                 |
+
+## Competitive Programming
+
+| Competition Name| Achievements |
+| :----- | :----: |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals <br /> Team: [BUET_404_not_found][icpc_2020] <br /> Rank: 602/1003 |
+| <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Rating |![](https://run.kaist.ac.kr/badges/codeforces/masum1805.svg)|
+
+<img width="35%" src="https://pruvi007-apis.herokuapp.com/CF/masum1805" />
+
+## Opensource personal projects
+
+- [IntentFX](https://github.com/Hmasum18/IntentFX)
+- [Android Map basic in java](https://github.com/Hmasum18/AndroidMapBasics)
+
+## Academic Projects
+
+- [Shoot the balls ( c, igraphics )](https://github.com/Hmasum18/Shoot-the-balls)
+- [CarwarhouseFX](https://github.com/Hmasum18/CarwarehouseFX)
+
+
+## Team Projects
+
+- [Satellight](satellight)
+- [Brainstorm](https://github.com/Hmasum18/problem-solving-platform-android-preview)
+- [MemoryLeakLab][MemoryLeakLab]
+
+## Teammates
+
+- [Mehrab Haque](https://github.com/mehrab-haque)
+
+- [Tamim Ehsan](https://github.com/TamimEhsan)
+
+- [Md. Jehadul Karim](https://github.com/MJKSabit)
+
+- [Rabib Jahin](https://github.com/rabib-jahin)
 
   
 
----
+  ⭐<a class="github-button" href="https://github.com/Hmasum18/Hmasum18" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Hmasum18/Hmasum18 on GitHub">Star this repository</a>
 
-### Connect with me:
+<!-- social media links -->
+[LinkedIn]:https://www.linkedin.com/in/hasan-masum-281157186/
+[Instagram]: https://www.instagram.com/hnmasum/
+[Facebook]: https://www.facebook.com/h.masum.52
+[Codeforces]: https://codeforces.com/profile/masum1805
+<!--hackathon links-->
+[hack1]: https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project
+<!-- achievement links-->
+[nasaSpaceApps_local]: https://www.facebook.com/SpaceAppsChallengeBangladesh/photos/a.709613099785683/817537108993281/
+[naseSpaceApps_Finalist]: https://www.facebook.com/SpaceAppsChallengeBangladesh/posts/857784428301882
+[hackTheVerse_4th]: https://www.facebook.com/IITSEC.DU/posts/2726203467635413
+<!--hackathon projects-->
+[satellight]: https://github.com/Hmasum18/satellight
+[MemoryLeakLab]: https://github.com/TamimEhsan/HackTheVerse_MemoryLeak
 
-* [<img align="left" alt="codeSTACKr | LinkedIn" width="22px"   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-* [<img align="left" alt="masum" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-* [<img align="left" alt="masum" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-* [<img align="left" alt="masum" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+<!--cp-->
+[icpc_2020]: https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings?page=3
 
-<br />
-
-___
-### Languages ,Frameworks and Tools:
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+<!--for future-->
 <!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> -->
-<img align="left" alt="Android Studio" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<br /><br /><br />
-
----
-### My Github Stats:
-
-<img align="left" alt="Hasan masum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true" /> &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18)-->
-
-## My Programming Performances
-
-| Competition Name|                          Acheivments|
-| :----- | :----: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals <br /> Team:BUET_404_not_found <br /> Rank: 602/1003 |
-| <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Rating |1198|
-
-## My Hackathon Performances
-
-| Project Name |                          Team Name                           |        Competetion Name        |               Position               |
-| :----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------: |
-| Satellight   | [BUET Zenith](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project) | NASA Space Apps Challenge 2020 | Regional Champion, Dhaka, Bangladesh |
-
-<!-- Place this tag where you want the button to render. -->
-⭐<a class="github-button" href="https://github.com/Hmasum18/Hmasum18" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Hmasum18/Hmasum18 on GitHub">Star this repository</a>
-
-[linkedin]:https://www.linkedin.com/in/hasan-masum-281157186/
-[instagram]: https://www.instagram.com/hnmasum/
-[facebook]: https://www.facebook.com/h.masum.52
-[codeforces]:https://codeforces.com/profile/masum1805
