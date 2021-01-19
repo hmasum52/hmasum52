@@ -14,9 +14,10 @@
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin]
-[![LinkedIn](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
-[![LinkedIn](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
-[![LinkedIn](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
+[![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)][Youtube]
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
 
 ## Languages, Frameworks and Tools
 
@@ -42,7 +43,7 @@
 
 |Project Name|Team Name|Competition Name|Achievement|
 | :-------: | :---------: | :------------: | :----------- |
-|    [Satellight][satellight]    | [BUET Zenith](hack1) |       NASA Space Apps Challenge 2020       | [Regional Champion, Dhaka Bangladesh][nasaSpaceApps_local] -> Global Nominee -> [Global Finalist][naseSpaceApps_Finalist] |
+|    [Satellight][satellight]    | [BUET Zenith][hack1] |       NASA Space Apps Challenge 2020       | [Regional Champion, Dhaka Bangladesh][nasaSpaceApps_local] -> Global Nominee -> [Global Finalist][naseSpaceApps_Finalist] |
 | [Memory leak labs][MemoryLeakLab] |                        Memory Leak                        | Hack the verse by IIT, University of Dhaka |                 [4th position among 42 teams][hackTheVerse_4th]                 |
 
 ## Competitive Programming
@@ -89,6 +90,7 @@
 [LinkedIn]:https://www.linkedin.com/in/hasan-masum-281157186/
 [Instagram]: https://www.instagram.com/hnmasum/
 [Facebook]: https://www.facebook.com/h.masum.52
+[Youtube]: https://www.youtube.com/channel/UC9z1DfHAY30KDeefviIEyUg/featured
 [Codeforces]: https://codeforces.com/profile/masum1805
 <!--hackathon links-->
 [hack1]: https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project
