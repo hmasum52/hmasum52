@@ -1,6 +1,8 @@
 [![HitCount](http://hits.dwyl.com/Hmasum18/Hmasum18.svg)](http://hits.dwyl.com/Hmasum18/Hmasum18)<img src="https://komarev.com/ghpvc/?username=Hmasum18">
 
-## Hi there 👋
+## Hi there 👋, I am Masum
+
+Find me : [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin][![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook][![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram][![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)][Youtube][![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
 
 - 🔭 I’m currently an undergraduate student of CSE, BUET(Bangladesh University of Engineering and Technology)
 
@@ -10,34 +12,19 @@
 
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin]
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
-[![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)][Youtube]
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
-
 ## Languages, Frameworks and Tools
 
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git)
-![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Android](https://img.shields.io/badge/-android-3ddc84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![dango](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
+{
+    "language": [ ![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java), ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black), ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5), ![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)],
+    "framework" : [![Android](https://img.shields.io/badge/-android-3ddc84?style=flat&logo=android&logoColor=white), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter), ![dango](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)],
+    "database" : [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)]
+	"version control" : [![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git), ![Git](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github)]
+	 "tools" : [![vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), ![Git](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), ![Git](https://img.shields.io/badge/-AndroidStudio-ffffff?style=flat&logo=Android-studio), ![Git](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=Figma)]
+} 
 
 ## Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18&layout=compact&&theme=gruvbox)
+<img src = "https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true&theme=gruvbox" width="55%" height ="200rem"/><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18&layout=compact&&theme=gruvbox" width="45%" height ="200rem"/>
 
 ## Hackathons
 
