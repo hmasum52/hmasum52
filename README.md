@@ -94,8 +94,9 @@ __tools__:
 
 <!-- social media links -->
 [LinkedIn]:https://www.linkedin.com/in/hasan-masum-281157186/
-[Instagram]: https://www.instagram.com/hnmasum/
+[Instagram]: https://www.instagram.com/h.masum.52/
 [Facebook]: https://www.facebook.com/h.masum.52
+[Twitter](https://twitter.com/h_masum_52)
 [Youtube]: https://www.youtube.com/channel/UC9z1DfHAY30KDeefviIEyUg/featured
 [Codeforces]: https://codeforces.com/profile/masum1805
 <!--hackathon links-->
