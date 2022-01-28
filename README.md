@@ -93,10 +93,10 @@ __tools__:
   ⭐<a class="github-button" href="https://github.com/Hmasum18/Hmasum18" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Hmasum18/Hmasum18 on GitHub">Star this repository</a>
 
 <!-- social media links -->
-[LinkedIn]:https://www.linkedin.com/in/hasan-masum-281157186/
+[LinkedIn]: https://www.linkedin.com/in/hasan-masum-281157186/
 [Instagram]: https://www.instagram.com/hmasum52/
 [Facebook]: https://www.facebook.com/hmasum52
-[Twitter](https://twitter.com/hmasum52)
+[Twitter]: (https://twitter.com/hmasum52)
 [Youtube]: https://www.youtube.com/channel/UC9z1DfHAY30KDeefviIEyUg/featured
 [Codeforces]: https://codeforces.com/profile/masum1805
 <!--hackathon links-->
