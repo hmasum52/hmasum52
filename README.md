@@ -1,49 +1,35 @@
-<img src="https://komarev.com/ghpvc/?username=Hmasum18">
+<h1 align="center">Hi 👋, I'm Hasan Masum</h1>
+<h3 align="center">A Computer Science Engineering Student and a passionate developer.</h3>
 
-## Hi there 👋, I am Masum
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmasum18&label=Profile%20views&color=0e75b6&style=flat" alt="hmasum18" /> </p>
 
-Find me : [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin]
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
-[![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)][Youtube]
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmasum18" alt="hmasum18" /></a> </p>
 
-- 🔭 I’m currently an undergraduate student of CSE, BUET(Bangladesh University of Engineering and Technology)
+<p align="left"> <a href="https://twitter.com/hmasum52" target="blank"><img src="https://img.shields.io/twitter/follow/hmasum52?logo=twitter&style=for-the-badge" alt="hmasum52" /></a> </p>
 
-- 🌱 I’m currently learning  the basics of computer science.
+- 👨‍💻 All of my projects are available at [https://hmasum18.github.io/](https://hmasum18.github.io/)
 
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 💬 Ask me about **android, flutter, nodejs, express**
 
-## Languages, Frameworks and Tools
+- 📫 How to reach me **hasanmasum1852@gmail.com**
 
-__language__:
-![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B),
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java),
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white),
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black),
-![Dart](https://img.shields.io/badge/-Dart-3776ab?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5), ![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmasum52" height="30" width="40" /></a>
+<a href="https://fb.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hmasum52" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmasum52" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hasan masum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan masum" height="30" width="40" /></a>
+</p>
 
-__framework__ :
-![Android](https://img.shields.io/badge/-android-3ddc84?style=flat&logo=android&logoColor=white),
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter),
-![Spring boot](https://img.shields.io/badge/-Spring%20boot-2FBB50?style=flat&logo=springboot&logoColor=white)
-![dango](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django),
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ 
 
-__tools__: 
-![Github](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git),
-![Git](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github), 
-![vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), 
-![intelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), 
-![Android studio](https://img.shields.io/badge/-AndroidStudio-ffffff?style=flat&logo=Android-studio), 
-![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=Figma)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmasum18&show_icons=true&locale=en&layout=compact" alt="hmasum18" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmasum18&show_icons=true&locale=en" alt="hmasum18" /></p>
 
-## Github Stats
-
-<img src = "https://github-readme-stats.vercel.app/api?username=Hmasum18&show_icons=true&theme=gruvbox" width="55%" height ="200rem"/><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hmasum18&layout=compact&&theme=gruvbox" width="45%" height ="200rem"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmasum18&" alt="hmasum18" /></p>
 
 ## Hackathons
 
@@ -80,13 +66,10 @@ __tools__:
 
 ## Teammates
 
-- [Mehrab Haque](https://github.com/mehrab-haque)
-
 - [Tamim Ehsan](https://github.com/TamimEhsan)
 
 - [Md. Jehadul Karim](https://github.com/MJKSabit)
 
-- [Rabib Jahin](https://github.com/rabib-jahin)
 
   
 
