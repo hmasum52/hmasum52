@@ -5,8 +5,8 @@
 Find me : [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn)][linkedin]
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)][Facebook]
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][Instagram]
-[![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)]
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)]
+[![Youtube](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white)][Youtube]
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=Codeforces&logoColor=white)][Codeforces]
 
 - 🔭 I’m currently an undergraduate student of CSE, BUET(Bangladesh University of Engineering and Technology)
 
