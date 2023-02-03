@@ -18,7 +18,7 @@
 <a href="https://twitter.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmasum52" height="30" width="40" /></a>
 <a href="https://fb.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hmasum52" height="30" width="40" /></a>
   <a href="https://www.instagram.com/hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmasum52" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hasan masum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan masum" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hmasum52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan masum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -80,7 +80,7 @@
 [Instagram]: https://www.instagram.com/hmasum52/
 [Facebook]: https://www.facebook.com/hmasum52
 [Twitter]: (https://twitter.com/hmasum52)
-[Youtube]: https://www.youtube.com/channel/UC9z1DfHAY30KDeefviIEyUg/featured
+[Youtube]: https://www.youtube.com/@hmasum52
 [Codeforces]: https://codeforces.com/profile/masum1805
 <!--hackathon links-->
 [hack1]: https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project
