@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hasan Masum</h1>
 <h3 align="center">A Computer Science Engineering Student and a passionate Software Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmasum52&label=Profile%20views&color=0e75b6&style=flat" alt="hmasum52" /> </p>
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9z1DfHAY30KDeefviIEyUg?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmasum52&label=Profile%20views&color=0e75b6&style=flat" alt="hmasum52" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC9z1DfHAY30KDeefviIEyUg?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic" />
+</div>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmasum52" alt="hmasum52" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hmasum52" target="blank"><img src="https://img.shields.io/twitter/follow/hmasum52?logo=twitter&style=for-the-badge" alt="hmasum52" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://hmasum52.github.io/](https://hmasum52.github.io/)
 
