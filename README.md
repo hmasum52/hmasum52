@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan Masum</h1>
-<h3 align="center">A Computer Science Engineering Student and a passionate developer.</h3>
+<h3 align="center">A Computer Science Engineering Student and a passionate Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmasum52&label=Profile%20views&color=0e75b6&style=flat" alt="hmasum52" /> </p>
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9z1DfHAY30KDeefviIEyUg?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmasum52" alt="hmasum52" /></a> </p>
 
@@ -47,11 +49,6 @@
 
 <img width="35%" src="https://pruvi007-apis.herokuapp.com/CF/masum1805" />
 
-## Opensource personal projects
-
-- [IntentFX](https://github.com/Hmasum52/IntentFX)
-- [Android Map basic in java](https://github.com/hmasum52/AndroidMapBasics)
-
 ## Academic Projects
 
 - [Shoot the balls ( c, igraphics )](https://github.com/Hmasum52/Shoot-the-balls)
@@ -76,7 +73,7 @@
   ⭐<a class="github-button" href="https://github.com/hmasum52/hmasum52" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star hmasum52/hmasum52 on GitHub">Star this repository</a>
 
 <!-- social media links -->
-[LinkedIn]: https://www.linkedin.com/in/hasan-masum-281157186/
+[LinkedIn]: https://www.linkedin.com/in/hmasum52/
 [Instagram]: https://www.instagram.com/hmasum52/
 [Facebook]: https://www.facebook.com/hmasum52
 [Twitter]: (https://twitter.com/hmasum52)
